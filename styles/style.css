@@ -60,7 +60,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    position: relative;    
+    position: relative;
 }
 
 .overlay {
@@ -93,7 +93,8 @@
 .aligned-text_center {
     text-align: center;
     padding-right: 30px;
-    padding-top: 10px}
+    padding-top: 10px
+}
 
 .aligned-text_right {
    text-align: right;
@@ -112,25 +113,25 @@
     align-items: center;
     justify-content: end;
     column-gap: 78px;
-    padding: 135px 50px 50px;
+    padding: 127px 50px 50px;
 }
 
 .cover__description-text {
     color: #FFF;
     text-align: center;
     font-family: 'Raleway';
-    font-size: 22px;
+    font-size: 21px;
     font-style: normal;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 26px;
     text-transform: uppercase;
-    word-spacing: 18px;
+    word-spacing: 21px;
     position: relative;
     z-index: 2;
 }
 
 .bet-button {
-    padding: 10px 32px;
+    padding: 12px 32px;
     border: #FFF solid 1px;
     color: #FFF;
     background-color: transparent;
@@ -146,7 +147,7 @@
 }
 
 .lots {
-    padding-top: 180px;
+    padding-top: 182px;
 }
 
 .lots__heading {
@@ -301,7 +302,7 @@
 .footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: 180px 50px 0;
+    margin: 180px 50px 91.32px;
     align-items: start;
     justify-items: end;
 }
